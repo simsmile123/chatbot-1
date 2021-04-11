@@ -24,7 +24,8 @@ const prompts = [
   ["what", "why", "how", "where", "when"],
   ["no","not sure","maybe","no thanks"],
   [""],
-  ["haha","ha","lol","hehe","funny","joke"]
+  ["haha","ha","lol","hehe","funny","joke"],
+  [hoe, bitch, dumbo, loser, shit, horrible]
 ]
 
 // Possible responses, in corresponding order
@@ -57,7 +58,8 @@ const replies = [
   ["Great question"],
   ["That's ok","I understand","What do you want to talk about?"],
   ["Please say something :("],
-  ["Haha!","Good one!"]
+  ["Haha!","Good one!"],
+  [you are mean jay]
 ]
 
 // Random for any other user input
